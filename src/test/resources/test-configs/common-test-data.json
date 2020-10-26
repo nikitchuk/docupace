@@ -1,0 +1,8 @@
+{
+    "sending_mail": {
+      "address": "automation@test.pro",
+      "password": ""
+    },
+    "testrail_url": "https://test.testrail.io",
+    "testrail_token": ""
+}
